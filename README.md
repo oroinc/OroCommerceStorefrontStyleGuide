@@ -16,5 +16,5 @@ To open and start using the OroCommerce Storefront Style Guide, you need to down
 
 ## How to use
 
-* Download the latest OroCommerce Storefront Style Guide from [here](https://github.com/griffin-stewie/SymbolNameAutocomplete/archive/master.zip)
+* Download the latest OroCommerce Storefront Style Guide from [here](https://github.com/oroinc/OroCommerceStorefrontStyleGuide/releases)
 * Unzip it, and double click `Storefront Style Guide.sketch`
