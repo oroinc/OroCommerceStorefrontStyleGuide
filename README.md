@@ -4,7 +4,7 @@ The guide contains instructions and tricks on how to quickly create a design of 
 
 ![OroCommerce Storefront Style Guide](FrontendDesignerGuide.jpg)
 
-The Storefront Style Guide is a collection of examples and user interface behaviors for designers. It contains a color palette, typography, interface elements (forms, buttons, tables, etc.), that serves as a checklist for designers, which will make it possible to eliminate omissions and inaccuracies when creating the OroCommerce theme design.
+The Storefront Style Guide is a collection of examples and user interface behaviors for designers. It contains a color palette, typography, interface elements (forms, buttons, tables, etc.), that serves as a checklist for designers, which will make it possible to eliminate omissions and inaccuracies when creating the OroCommerce theme design. 
 
 ## Installing
 
@@ -17,4 +17,6 @@ To open and start using the OroCommerce Storefront Style Guide, you need to down
 ## How to use
 
 * Download the latest OroCommerce Storefront Style Guide from [here](https://github.com/oroinc/OroCommerceStorefrontStyleGuide/releases)
-* Unzip it, and double click `Storefront Style Guide.sketch`
+* Unzip it, and double click `OroCommerce Storefront Style Guide.sketch`
+
+For more information, please read the [Documentation](https://doc.oroinc.com/frontend/storefront-design/storefront-style-guide/index.html).
