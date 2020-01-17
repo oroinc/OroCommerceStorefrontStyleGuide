@@ -18,5 +18,3 @@ To open and start using the OroCommerce Storefront Style Guide, you need to down
 
 * Download the latest OroCommerce Storefront Style Guide from [here](https://github.com/oroinc/OroCommerceStorefrontStyleGuide/releases)
 * Unzip it, and double click `OroCommerce Storefront Style Guide.sketch`
-
-For more information, please read the [Documentation](https://doc.oroinc.com/frontend/storefront-design/storefront-style-guide/index.html).
